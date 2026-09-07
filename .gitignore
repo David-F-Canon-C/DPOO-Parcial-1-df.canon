@@ -1,0 +1,15 @@
+# Archivos compilados de Java
+*.class
+
+# Carpeta de compilación de Eclipse
+bin/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
